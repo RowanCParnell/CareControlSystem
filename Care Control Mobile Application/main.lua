@@ -124,11 +124,11 @@ local elementstyles = {
 
     occupantbox = {2, -20, 23, 17},
 
-    occupantname = {32, 30, 65, 18},
+    occupantname = {32, 30, 65, 19},
     occupantroom = {32, 55, 65, 15},
 
     duewidget = {80, 3, 15, 20},
-    outstandingwidget = {90, 3, 15, 20},
+    outstandingwidget = {90, 6, 15, 20},
 
     occupantimage = {1, 15, 15, 20},
     outstandingcircle = {1, 15, 15, 20},
