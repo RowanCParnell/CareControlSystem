@@ -8,8 +8,9 @@ Data is gotten from a json file built into the app.
 - For the circle colour, outstanding will override due.
 - If the circle is green then the user has no issues.
 
-- The list is sorted by the number of outstanding issues or the number of due issues.
+- The list is sorted by the most or least number of outstanding issues or the most or least number of due issues by pressing the blue button.
 - Search filters can be applied by inputting into the filter text fields and pressing the update button.
+- Filtering is case insensitive and ignores hyphens in the id codes.
 - The clear button empties the filter fields.
 
 # Screenshots:
