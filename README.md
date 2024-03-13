@@ -1,4 +1,4 @@
-# A filtering and sorting system for data from a json file
+# A filtering and sorting system for data from a json file using Solar2D and Lua
 
 Red value are the amount of outstanding issues.
 Orange values are the amount of due issues.
